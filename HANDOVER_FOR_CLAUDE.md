@@ -56,8 +56,10 @@ So v3 uses YOUR method:
 - `engine/` — evaluator, generator, draw model, v2 calibration
   (`calibrate.py`, `refine.py`, `produce.py`), v3 pipeline
   (`produce_v3.py`, `solve_weights.py`), verification.
-- `math/` — YOUR original catalogs (the oracle; do not modify).
-- `math_v2/` — the shipped v2 bundle (superseded by v3 if tests pass).
+- Your original catalogs and the shipped v2 bundle are NOT in this repo
+  (size); your originals are your own files, and v2 is staged in Keith's
+  Drive folder "IMPORT — Ruthless Eclipse Math v2". v3 supersedes v2 if
+  these tests pass.
 - `math_v3/` — raw v3 catalogs + `publish_files/` (the studio bundle:
   index.json, books_<mode>.jsonl.zst, lookUpTable_<mode>_0.csv) +
   `weights_report.json` from the solver.
