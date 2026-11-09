@@ -1,0 +1,208 @@
+{
+	"config": {
+		"bgm_main": {
+			"volume": 0.5
+		},
+		"bgm_freespin": {
+			"volume": 0.55
+		},
+		"sfx_btn_general": {
+			"volume": 0.8
+		},
+		"sfx_btn_spin": {
+			"volume": 0.9
+		},
+		"sfx_land_1": {
+			"volume": 0.95
+		},
+		"sfx_land_2": {
+			"volume": 0.95
+		},
+		"sfx_land_3": {
+			"volume": 0.95
+		},
+		"sfx_land_4": {
+			"volume": 0.95
+		},
+		"sfx_land_5": {
+			"volume": 0.95
+		},
+		"sfx_land_6": {
+			"volume": 0.95
+		},
+		"sfx_core_1": {
+			"volume": 0.85
+		},
+		"sfx_core_2": {
+			"volume": 0.85
+		},
+		"sfx_core_3": {
+			"volume": 0.85
+		},
+		"sfx_core_4": {
+			"volume": 0.85
+		},
+		"sfx_core_5": {
+			"volume": 0.85
+		},
+		"sfx_core_6": {
+			"volume": 0.85
+		},
+		"sfx_surge": {
+			"volume": 0.9
+		},
+		"sfx_fracture": {
+			"volume": 0.95
+		},
+		"sfx_echo": {
+			"volume": 0.9
+		},
+		"sfx_eclipse": {
+			"volume": 0.95
+		},
+		"sfx_tick": {
+			"volume": 0.6
+		},
+		"sfx_win_small": {
+			"volume": 0.85
+		},
+		"sfx_win_big": {
+			"volume": 0.95
+		},
+		"sfx_win_mega": {
+			"volume": 1.0
+		},
+		"sfx_bigwin_coinloop": {
+			"volume": 0.7
+		},
+		"sfx_buy_confirm": {
+			"volume": 0.9
+		},
+		"sfx_fs_intro": {
+			"volume": 0.95
+		},
+		"sfx_fs_end": {
+			"volume": 0.9
+		}
+	},
+	"sprite": {
+		"bgm_main": [
+			0.0,
+			7000.0,
+			true
+		],
+		"bgm_freespin": [
+			7080.0,
+			7000.0,
+			true
+		],
+		"sfx_btn_general": [
+			14160.0,
+			150.0
+		],
+		"sfx_btn_spin": [
+			14390.0,
+			300.0
+		],
+		"sfx_land_1": [
+			14770.0,
+			240.0
+		],
+		"sfx_land_2": [
+			15090.0,
+			240.0
+		],
+		"sfx_land_3": [
+			15410.0,
+			240.0
+		],
+		"sfx_land_4": [
+			15730.0,
+			240.0
+		],
+		"sfx_land_5": [
+			16050.0,
+			240.0
+		],
+		"sfx_land_6": [
+			16370.0,
+			240.0
+		],
+		"sfx_core_1": [
+			16690.0,
+			550.0
+		],
+		"sfx_core_2": [
+			17320.0,
+			550.0
+		],
+		"sfx_core_3": [
+			17950.0,
+			550.0
+		],
+		"sfx_core_4": [
+			18580.0,
+			550.0
+		],
+		"sfx_core_5": [
+			19210.0,
+			550.0
+		],
+		"sfx_core_6": [
+			19840.0,
+			550.0
+		],
+		"sfx_surge": [
+			20470.0,
+			650.0
+		],
+		"sfx_fracture": [
+			21200.0,
+			500.0
+		],
+		"sfx_echo": [
+			21780.0,
+			550.0
+		],
+		"sfx_eclipse": [
+			22410.0,
+			950.0
+		],
+		"sfx_tick": [
+			23440.0,
+			60.0
+		],
+		"sfx_win_small": [
+			23580.0,
+			450.0
+		],
+		"sfx_win_big": [
+			24110.0,
+			900.0
+		],
+		"sfx_win_mega": [
+			25090.0,
+			1300.0
+		],
+		"sfx_bigwin_coinloop": [
+			26470.0,
+			3000.0,
+			true
+		],
+		"sfx_buy_confirm": [
+			29550.0,
+			400.0
+		],
+		"sfx_fs_intro": [
+			30030.0,
+			1300.0
+		],
+		"sfx_fs_end": [
+			31410.0,
+			900.0
+		]
+	},
+	"src": [
+		"./assets/audio/sounds.mp3"
+	]
+}
