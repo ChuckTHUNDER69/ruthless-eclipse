@@ -1,0 +1,34 @@
+{
+  "modes": [
+    {
+      "name": "base",
+      "cost": 1,
+      "events": "books_base.jsonl.zst",
+      "weights": "lookUpTable_base_0.csv"
+    },
+    {
+      "name": "surge",
+      "cost": 75,
+      "events": "books_surge.jsonl.zst",
+      "weights": "lookUpTable_surge_0.csv"
+    },
+    {
+      "name": "fracture",
+      "cost": 100,
+      "events": "books_fracture.jsonl.zst",
+      "weights": "lookUpTable_fracture_0.csv"
+    },
+    {
+      "name": "echo",
+      "cost": 150,
+      "events": "books_echo.jsonl.zst",
+      "weights": "lookUpTable_echo_0.csv"
+    },
+    {
+      "name": "eclipse",
+      "cost": 300,
+      "events": "books_eclipse.jsonl.zst",
+      "weights": "lookUpTable_eclipse_0.csv"
+    }
+  ]
+}

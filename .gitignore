@@ -1,0 +1,9 @@
+builds/
+math/
+math_v2/
+math_v3/books_*.jsonl.zst
+math_v3/publish_files/*.zst.tmp
+art/production/
+ruthless_eclipse_math.zip
+*.log
+__pycache__/

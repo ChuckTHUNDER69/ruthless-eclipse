@@ -1,0 +1,28 @@
+{
+  "params": {
+    "q_base_scale": 1.0,
+    "q_surge": 0.22,
+    "q_fracture": 0.22,
+    "q_echo": 0.22,
+    "q_eclipse": 0.053
+  },
+  "counts": {
+    "base": 300000,
+    "surge": 100000,
+    "fracture": 100000,
+    "echo": 100000,
+    "eclipse": 100000
+  },
+  "seed0": {
+    "base": 991000,
+    "surge": 992000,
+    "fracture": 993000,
+    "echo": 994000,
+    "eclipse": 995000
+  },
+  "method": "claude-density generation + solved weights",
+  "raw_rtp": {
+    "base": 4.8980958,
+    "eclipse": 4.29867944
+  }
+}
